@@ -16,7 +16,7 @@ let package = Package(
         // .package(url: /* package url */, from: "1.0.0"),
     ],
     targets: [
-        .binaryTarget(name: "FrontLinkSDK", url: "https://github.com/FrontFin/front-b2b-ios-sdk/releases/download/1.1.0/FrontLinkSDK.xcframework.1.1.0.zip", checksum: "ce3785880c4f066b21f2022636d67fe04512d4d208340005327e64fba0ae609d")
+        .binaryTarget(name: "FrontLinkSDK", url: "https://github.com/FrontFin/front-b2b-ios-sdk/releases/download/1.1.1/FrontLinkSDK.xcframework.1.1.1.zip", checksum: "107625bd89acc19e1b0478f6bea943456da39844062ea071b3dfd35b8dee7e1f")
     ]
 )
 
